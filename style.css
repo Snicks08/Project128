@@ -1,0 +1,21 @@
+.h3 {
+    color: white;
+    background-color: orange;
+}
+
+.note
+{
+    color: black;
+}
+
+.canvas
+{
+    background-color: #000000;
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px #73cfd8;
+}
+
+.play_button {
+    margin-bottom: 300px;
+}
